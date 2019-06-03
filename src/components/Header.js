@@ -9,7 +9,7 @@ const Header = () => {
         <li className="nav-item">
           <Link to="/" className="nav-link">
           <button className='btn btn-sm btn-primary'>
-              Streamer
+              Streamer 
             </button>
           </Link>
         </li>
